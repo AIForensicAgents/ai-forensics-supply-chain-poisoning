@@ -1,3 +1,5 @@
+![Cover Image](assets/cover-image.png)
+
 <!-- AI Forensics: Software Supply Chain Poisoning by AI Agents -->
 <!-- og:title: AI Forensics — Software Supply Chain Poisoning by Autonomous AI Agents -->
 <!-- og:description: Comprehensive forensic framework for identifying, investigating, and mitigating autonomous AI agent attacks on software supply chains including open-source repositories, package managers, CI/CD pipelines, and firmware update systems. -->
